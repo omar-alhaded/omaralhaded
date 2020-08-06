@@ -1,3 +1,41 @@
+$( "div#l1 button.btn.btn-primary" ).bind( "click", function() {
+alert( "اهلا وسهلا بكم في شات الفجر  للجوال ❤️ سجل عضوية تحصل على 5000 لايك وزخرفة :: طريقة التسجيل اضغط على خيار (سجل ويانا ) اكتب (اكتب اسمك المستعار + كلمة المرور ) وبعدها اضغط دخول وللتواصل اضغط على ايقونة اتصل بنا" );
+});
+$(".dpnl").css('width','310px');
+$('.fl.ustat')
+    .css('width', '3px'), $('.fa.fa-user-plus')
+    .html(`❥ سـجـل ويـانـا `), document.getElementById('u1')
+    .placeholder = 'اكتب اسمك من 5 احرف فقط ', 
+document.getElementById('pass1')
+  .placeholder = 'كلمة المرور', document.getElementById('u2')
+    .placeholder = 'فخأمة طلتك تنورنا', document.getElementById('pass2')
+    .placeholder = ' ㋡ بـاسوردك ولاتنساه يـ جميل ', document.getElementById('u3')
+    .placeholder = '♥ أكتب اسمك ولازم تحفظه ';
+
+$(document.getElementById("tbox").placeholder = "  　حيـاكم شَــات الفجـر ");
+
+$("div#tlogins button.btn.btn-primary").click(function(){
+var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){
+   $(`
+    <div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
+      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(https://chatnsh.com/pic/1eetuc5s310.gif);" class="fl fitimg hand u-pic    ">
+      <div class="uzr fl" style="padding:0px;width:80%">
+        <div style="padding:0px;width:100%;" class="fl">
+          <img class="fl u-ico" alt="" src="https://chatnsh.com/sico/z1eetu9qqa10.gif">
+          <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(199, 103, 48);" class="corner nosel u-topic dots fl hand">‎.! Mod  </span>
+        </div>
+        <br>
+        <div style="padding: 0px; width: 100%; color: rgb(60, 0, 255);" class=" u-msg   break  fl">
+        <div style="padding: 0px;width: 100%;color: rgb(60, 0, 255);text-align: left;display: block;margin-top: -17px;" class=" u-msg   break  fl"> مرحباً بك 👋 <h1 style="display: inline-block;color: red;">`+ getuser(myid).topic+ `</h1> نقدّر تواجدك معنا، ونتمنى لك يوماً سعيداً إن شاء الله </div>
+      </div>
+    </div></div>
+`).appendTo('div#d2')
+clearInterval(myVar);
+
+}else{console.log(usmsgw)} }, 2000);
+})
+ 
+
 $(`<a id="AL-HADED" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="Omar_AL-HADED70"src="https://chatnsh.com/sico/z1ef103tgh10.jpg"style="width:100%"><a id="Omar_AL-HADED27"target="_blank"type="a"rel="nofollow"title=""href="https://www.chatnsh.com"class="label-primary">Programming by Omar ALHaded </a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
 $(`<center><div id="ALHADED">
 <a id="Omar_AL-HADED7"rel="dofollow" title="القوانين" href=""style="border-radius: 0 4px 0 0; border-right: 2px solid#f7d322;"class="fl mini  fa fa-bullhorn btn btn-primary" target="_blank"></a>
